@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+h1 {
+    text-align: center;
+    margin-top: 20px;
+}
+
+table {
+  margin: 50px auto;
+}
+table,
+th,
+td {
+  border: 1px groove lightgray;
+  border-collapse: collapse;
+  padding: 5px;
+  text-align: center;
+  font-size: large;
+}
